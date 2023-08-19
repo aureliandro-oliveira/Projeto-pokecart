@@ -2,12 +2,12 @@ body {
     font-family: 'Poppins', sans-serif;
     max-width: 1280;
     margin: 0 auto;
-    background: linear-gradient(90deg, rgba(235, 4, 35) 0%, rgb(205, 250, 6) 35%, rgb(0, 4, 255) 100%);
+    background-color:#fdd007;
     color: rgb(2, 2, 129);
 }
 
 body.modo-escuro {
-    background-color: blue;
+    background-color: #9a3af5;
     color: yellow;
 }
 
