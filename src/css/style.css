@@ -4,12 +4,15 @@ body {
     margin: 0 auto;
     background-color:#fdd007;
     background-image: url(../imagens/14-wallpaper-pokemon.jpg);
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    height: 100%;
 }
 
 body.modo-escuro {
     background-color: #9a3af5;
     background-image: url(../imagens/aestic.jpeg);
+    height: 100%;
 }
 
 header {
