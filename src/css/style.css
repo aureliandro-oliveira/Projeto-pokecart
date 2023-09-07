@@ -12,6 +12,7 @@ body {
 body.modo-escuro {
     background-color: #9a3af5;
     background-image: url(../imagens/aestic.jpeg);
+    background-repeat: no-repeat;
     height: 100%;
 }
 
