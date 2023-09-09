@@ -6,15 +6,17 @@ body {
     background-image: url(../imagens/pokemon-dia.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: absolute;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
 }
 
 body.modo-escuro {
     background-color: #9a3af5;
     background-image: url(../imagens/pokemon-noite.jpg);
-    background-repeat: no-repeat;
-    background-position: absolute;
 }
+    
 
 header {
     background: linear-gradient(90deg, rgb(235, 4, 35) 0%, rgb(205, 250, 6) 35%, rgba(0, 4, 255) 100%);
