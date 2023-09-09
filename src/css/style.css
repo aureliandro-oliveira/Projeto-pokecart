@@ -2,7 +2,6 @@ body {
     font-family: 'Poppins', sans-serif;
     max-width: 1280;
     margin: 0 auto;
-    background-color:#fdd007;
     background-image: url(../imagens/pokemon-dia.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -14,10 +13,8 @@ body {
 }
 
 body.modo-escuro {
-    background-color: #9a3af5;
     background-image: url(../imagens/pokemon-noite.jpg);
 }
-    
 
 header {
     display: flex;
