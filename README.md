@@ -1,6 +1,7 @@
 # Pokecart
 ### Link do projeto no github
-https://aureliandro-oliveira.github.io/aula-projeto/
+
+https://aureliandro-oliveira.github.io/Projeto-pokecart/
 
 # Sobre o projeto
  Projeto criado na semana do zero ao programador contrado, que foi promovido pela Dev Quest - Dev em dobro.
